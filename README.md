@@ -1,1 +1,2 @@
-# AUV-CVI-Mini-Project
+# OpenCV/ Classification Projects
+
